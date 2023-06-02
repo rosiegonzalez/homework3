@@ -1,0 +1,42 @@
+body {
+  background: linear-gradient(90deg, rgb(100, 91, 222), rgb(204, 47, 97));
+
+  color: navy;
+}
+
+form {
+  margin: 20px;
+
+  padding: 20px;
+
+  border: 1px solid rgb(142, 142, 229);
+
+  border-radius: 5px;
+}
+
+label,
+input {
+  display: block;
+
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 5px;
+
+  border-radius: 5px;
+
+  border: 3px solid navy;
+}
+
+button {
+  padding: 5px 10px;
+
+  background-color: navy;
+
+  color: white;
+
+  border-radius: 5px;
+
+  border: none;
+}
